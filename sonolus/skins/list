@@ -1,0 +1,27 @@
+{
+    "pageCount": 1,
+    "items": [
+        {
+            "name": "pixel",
+            "version": 1,
+            "title": "Pixel",
+            "subtitle": "Sonolus",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "SkinThumbnail",
+                "hash": "b130ca64e3a9ee209b7466b1342a33c2f80abeae",
+                "url": "/repository/SkinThumbnail/b130ca64e3a9ee209b7466b1342a33c2f80abeae"
+            },
+            "data": {
+                "type": "SkinData",
+                "hash": "d2076abc09432403e2e6a2422c71756c2f70fd99",
+                "url": "/repository/SkinData/d2076abc09432403e2e6a2422c71756c2f70fd99"
+            },
+            "texture": {
+                "type": "SkinTexture",
+                "hash": "5010d3eab1af7a1af255f7f81f0c8c1fb82e4bba",
+                "url": "/repository/SkinTexture/5010d3eab1af7a1af255f7f81f0c8c1fb82e4bba"
+            }
+        }
+    ]
+}

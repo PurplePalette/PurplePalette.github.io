@@ -1,0 +1,22 @@
+{
+    "pageCount": 1,
+    "items": [
+        {
+            "name": "bandori.1",
+            "version": 1,
+            "title": "SE Type 1",
+            "subtitle": "BanG Dream! Girls Band Party!",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "EffectThumbnail",
+                "hash": "4eaed89909907cb46ef964dd62f991058ed974b7",
+                "url": "/repository/EffectThumbnail/4eaed89909907cb46ef964dd62f991058ed974b7"
+            },
+            "data": {
+                "type": "EffectData",
+                "hash": "addb1eb6402aa0dcb0d65c5a8dfd3935f08e3d39",
+                "url": "/repository/EffectData/addb1eb6402aa0dcb0d65c5a8dfd3935f08e3d39"
+            }
+        }
+    ]
+}

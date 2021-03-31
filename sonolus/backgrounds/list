@@ -1,0 +1,27 @@
+{
+    "pageCount": 1,
+    "items": [
+        {
+            "name": "darkblue",
+            "version": 1,
+            "title": "Dark Blue",
+            "subtitle": "Sonolus",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "BackgroundThumbnail",
+                "hash": "c9360af9be48adc37758060cdb3901e12ab0be3e",
+                "url": "/repository/BackgroundThumbnail/c9360af9be48adc37758060cdb3901e12ab0be3e"
+            },
+            "data": {
+                "type": "BackgroundData",
+                "hash": "92369babe7837afa849337ecd928832c3b94bd8a",
+                "url": "/repository/BackgroundData/92369babe7837afa849337ecd928832c3b94bd8a"
+            },
+            "image": {
+                "type": "BackgroundImage",
+                "hash": "17bb17c86fe270da637693ee36e26c40e947bd12",
+                "url": "/repository/BackgroundImage/17bb17c86fe270da637693ee36e26c40e947bd12"
+            }
+        }
+    ]
+}

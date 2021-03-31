@@ -1,0 +1,26 @@
+{
+    "item": {
+        "name": "pixel",
+        "version": 1,
+        "title": "Pixel",
+        "subtitle": "Sonolus",
+        "author": "Sonolus",
+        "thumbnail": {
+            "type": "ParticleThumbnail",
+            "hash": "b130ca64e3a9ee209b7466b1342a33c2f80abeae",
+            "url": "/repository/ParticleThumbnail/b130ca64e3a9ee209b7466b1342a33c2f80abeae"
+        },
+        "data": {
+            "type": "ParticleData",
+            "hash": "ee33577fd4468cfde5a489f81f928a124cc486bc",
+            "url": "/repository/ParticleData/ee33577fd4468cfde5a489f81f928a124cc486bc"
+        },
+        "texture": {
+            "type": "ParticleTexture",
+            "hash": "03832304512a64cab50ca8cbe5863f73dcf007ad",
+            "url": "/repository/ParticleTexture/03832304512a64cab50ca8cbe5863f73dcf007ad"
+        }
+    },
+    "description": "",
+    "recommended": []
+}

@@ -1,0 +1,109 @@
+{
+    "item": {
+        "name": "bandori.classic",
+        "version": 1,
+        "title": "Bandori",
+        "subtitle": "BanG Dream! Girls Band Party!",
+        "author": "Sonolus",
+        "skin": {
+            "name": "pixel",
+            "version": 1,
+            "title": "Pixel",
+            "subtitle": "Sonolus",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "SkinThumbnail",
+                "hash": "b130ca64e3a9ee209b7466b1342a33c2f80abeae",
+                "url": "/repository/SkinThumbnail/b130ca64e3a9ee209b7466b1342a33c2f80abeae"
+            },
+            "data": {
+                "type": "SkinData",
+                "hash": "d2076abc09432403e2e6a2422c71756c2f70fd99",
+                "url": "/repository/SkinData/d2076abc09432403e2e6a2422c71756c2f70fd99"
+            },
+            "texture": {
+                "type": "SkinTexture",
+                "hash": "5010d3eab1af7a1af255f7f81f0c8c1fb82e4bba",
+                "url": "/repository/SkinTexture/5010d3eab1af7a1af255f7f81f0c8c1fb82e4bba"
+            }
+        },
+        "background": {
+            "name": "darkblue",
+            "version": 1,
+            "title": "Dark Blue",
+            "subtitle": "Sonolus",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "BackgroundThumbnail",
+                "hash": "c9360af9be48adc37758060cdb3901e12ab0be3e",
+                "url": "/repository/BackgroundThumbnail/c9360af9be48adc37758060cdb3901e12ab0be3e"
+            },
+            "data": {
+                "type": "BackgroundData",
+                "hash": "92369babe7837afa849337ecd928832c3b94bd8a",
+                "url": "/repository/BackgroundData/92369babe7837afa849337ecd928832c3b94bd8a"
+            },
+            "image": {
+                "type": "BackgroundImage",
+                "hash": "17bb17c86fe270da637693ee36e26c40e947bd12",
+                "url": "/repository/BackgroundImage/17bb17c86fe270da637693ee36e26c40e947bd12"
+            }
+        },
+        "effect": {
+            "name": "bandori.1",
+            "version": 1,
+            "title": "SE Type 1",
+            "subtitle": "BanG Dream! Girls Band Party!",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "EffectThumbnail",
+                "hash": "4eaed89909907cb46ef964dd62f991058ed974b7",
+                "url": "/repository/EffectThumbnail/4eaed89909907cb46ef964dd62f991058ed974b7"
+            },
+            "data": {
+                "type": "EffectData",
+                "hash": "addb1eb6402aa0dcb0d65c5a8dfd3935f08e3d39",
+                "url": "/repository/EffectData/addb1eb6402aa0dcb0d65c5a8dfd3935f08e3d39"
+            }
+        },
+        "particle": {
+            "name": "pixel",
+            "version": 1,
+            "title": "Pixel",
+            "subtitle": "Sonolus",
+            "author": "Sonolus",
+            "thumbnail": {
+                "type": "ParticleThumbnail",
+                "hash": "b130ca64e3a9ee209b7466b1342a33c2f80abeae",
+                "url": "/repository/ParticleThumbnail/b130ca64e3a9ee209b7466b1342a33c2f80abeae"
+            },
+            "data": {
+                "type": "ParticleData",
+                "hash": "ee33577fd4468cfde5a489f81f928a124cc486bc",
+                "url": "/repository/ParticleData/ee33577fd4468cfde5a489f81f928a124cc486bc"
+            },
+            "texture": {
+                "type": "ParticleTexture",
+                "hash": "03832304512a64cab50ca8cbe5863f73dcf007ad",
+                "url": "/repository/ParticleTexture/03832304512a64cab50ca8cbe5863f73dcf007ad"
+            }
+        },
+        "thumbnail": {
+            "type": "EngineThumbnail",
+            "hash": "4eaed89909907cb46ef964dd62f991058ed974b7",
+            "url": "/repository/EngineThumbnail/4eaed89909907cb46ef964dd62f991058ed974b7"
+        },
+        "data": {
+            "type": "EngineData",
+            "hash": "00b83c88dda8258ade6011b3be5a9bc2fa94dd02",
+            "url": "/repository/EngineData/00b83c88dda8258ade6011b3be5a9bc2fa94dd02"
+        },
+        "configuration": {
+            "type": "EngineConfiguration",
+            "hash": "f5729c284efed6869ab5ec6a3be7721a21143314",
+            "url": "/repository/EngineConfiguration/f5729c284efed6869ab5ec6a3be7721a21143314"
+        }
+    },
+    "description": "",
+    "recommended": []
+}
