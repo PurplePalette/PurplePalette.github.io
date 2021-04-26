@@ -1250,16 +1250,16 @@
       "author": "うふげー",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/po/song.mp3"
+        "url": "/repository/levels/po1/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/po/jacket.jpg"
+        "url": "/repository/levels/po1/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/po/level"
+        "url": "/repository/levels/po1/level"
       },
       "description": "作詞：ラマーズP\n作曲：ラマーズP\n編曲：ラマーズP\n歌：初音ミク",
       "engine": {
@@ -1353,7 +1353,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "po",
+      "name": "po1",
       "rating": 5,
       "title": "ぽっぴっぽー",
       "useBackground": {
