@@ -1,21 +1,21 @@
 {
    "item": {
-      "artists": "初音ミク",
-      "author": "うふげー",
+      "artists": "初音ミク、音街ウナ",
+      "author": "Myrica",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/po/song.mp3"
+        "url": "/repository/levels/tigau/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/po/jacket.jpg"
+        "url": "/repository/levels/tigau/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/po/level"
+        "url": "/repository/levels/tigau/level"
       },
-      "description": "作詞：ラマーズP\n作曲：ラマーズP\n編曲：ラマーズP\n歌：初音ミク",
+      "description": "作詞：カルロス袴田(サイゼP)\n作曲：カルロス袴田(サイゼP)\n編曲：-\n歌：初音ミク、音街ウナ",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -107,9 +107,9 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "po",
+      "name": "tigau",
       "rating": 5,
-      "title": "ぽっぴっぽー",
+      "title": "ちがう!!!",
       "useBackground": {
         "useDefault": true
       },
