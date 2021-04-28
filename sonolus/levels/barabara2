@@ -4,16 +4,16 @@
       "author": "DZ",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/barabara1/song.mp3"
+        "url": "/repository/levels/barabara2/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/barabara1/jacket.jpg"
+        "url": "/repository/levels/barabara2/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/barabara1/level"
+        "url": "/repository/levels/barabara2/level"
       },
       "description": "作詞：cosMo@暴走P\n作曲：cosMo@暴走P\n編曲：-\n歌：初音ミク",
       "engine": {
@@ -107,7 +107,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "barabara1",
+      "name": "barabara2",
       "rating": 5,
       "title": "バラバラリリック",
       "useBackground": {
