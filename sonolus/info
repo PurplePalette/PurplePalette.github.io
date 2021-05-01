@@ -1000,16 +1000,16 @@
       "author": "霜月(そうげつ)",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/hfs2/song.mp3"
+        "url": "/repository/levels/hfs3/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/hfs2/jacket.jpg"
+        "url": "/repository/levels/hfs3/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/hfs2/level"
+        "url": "/repository/levels/hfs3/level"
       },
       "description": "作詞：山崎佳祐\n作曲：山崎佳祐\n編曲：溝口雅大\n歌：TrySail",
       "engine": {
@@ -1103,7 +1103,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "hfs2",
+      "name": "hfs3",
       "rating": 5,
       "title": "High Free Spirits",
       "useBackground": {
