@@ -18,7 +18,7 @@
         "type": "LevelData",
         "url": "https://colorfulstage.herokuapp.com/repository/levels/1.1.easy/LevelData"
       },
-      "description": "作詞：kz\n作曲：kz\n編曲：kz\nユニット：VIRTUAL SINGER",
+      "description": "作詞：kz\r\n作曲：kz\r\n編曲：kz\r\nユニット：VIRTUAL SINGER",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
