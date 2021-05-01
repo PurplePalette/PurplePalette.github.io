@@ -1,21 +1,21 @@
 {
    "item": {
-      "artists": "初音ミク、音街ウナ",
-      "author": "Myrica",
+      "artists": "-",
+      "author": "よこしま。",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/tigau2/song.mp3"
+        "url": "/repository/levels/FLOWER/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/tigau2/jacket.jpg"
+        "url": "/repository/levels/FLOWER/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/tigau2/level"
+        "url": "/repository/levels/FLOWER/level"
       },
-      "description": "作詞：カルロス袴田(サイゼP)\n作曲：カルロス袴田(サイゼP)\n編曲：-\n歌：初音ミク、音街ウナ",
+      "description": "作詞：-\n作曲：DJ YOSHITAKA\n編曲：-\n歌：-",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -107,9 +107,9 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "tigau2",
+      "name": "FLOWER",
       "rating": 5,
-      "title": "ちがう!!!",
+      "title": "FLOWER",
       "useBackground": {
         "useDefault": true
       },
