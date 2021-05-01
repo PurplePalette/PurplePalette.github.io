@@ -1882,16 +1882,16 @@
       "author": "よこしま。",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/FLOWER/song.mp3"
+        "url": "/repository/levels/FLOWER1/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/FLOWER/jacket.jpg"
+        "url": "/repository/levels/FLOWER1/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/FLOWER/level"
+        "url": "/repository/levels/FLOWER1/level"
       },
       "description": "作詞：-\n作曲：DJ YOSHITAKA\n編曲：-\n歌：-",
       "engine": {
@@ -1985,7 +1985,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "FLOWER",
+      "name": "FLOWER1",
       "rating": 5,
       "title": "FLOWER",
       "useBackground": {
