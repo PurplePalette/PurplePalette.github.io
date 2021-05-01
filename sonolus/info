@@ -136,7 +136,7 @@
         "type": "LevelData",
         "url": "/repository/levels/sun/level"
       },
-      "description": "作詞：ナユタン星人\n作曲：ナユタン星人\n編曲：-\n歌：初音ミク",
+      "description": "作詞：ナユタン星人\r\n作曲：ナユタン星人\r\n編曲：-\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -247,131 +247,6 @@
     },
     {
       "artists": "初音ミク",
-      "author": "アスパルテーム",
-      "bgm": {
-        "type": "LevelBgm",
-        "url": "/repository/levels/hayakuchi/song.mp3"
-      },
-      "characterUnits": [],
-      "cover": {
-        "type": "LevelCover",
-        "url": "/repository/levels/hayakuchi/jacket.jpg"
-      },
-      "data": {
-        "type": "LevelData",
-        "url": "/repository/levels/hayakuchi/level"
-      },
-      "description": "作詞：木村わいP\n作曲：木村わいP\n編曲：-\n歌：初音ミク",
-      "engine": {
-        "author": "Water Boiled Pizza",
-        "background": {
-          "author": "Sonolus",
-          "data": {
-            "type": "BackgroundData",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/background.json"
-          },
-          "image": {
-            "type": "BackgroundImage",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/image.png"
-          },
-          "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "thumbnail": {
-            "type": "BackgroundThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/thumbnail.png"
-          },
-          "title": "Project Sekai",
-          "version": 1
-        },
-        "configuration": {
-          "type": "EngineConfiguration",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineConfiguration"
-        },
-        "data": {
-          "type": "EngineData",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineData"
-        },
-        "effect": {
-          "author": "Sonolus",
-          "data": {
-            "type": "EffectData",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/EffectData"
-          },
-          "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "thumbnail": {
-            "type": "EffectThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/thumbnail.png"
-          },
-          "title": "Project Sekai",
-          "version": 1
-        },
-        "name": "psekai",
-        "particle": {
-          "author": "Sonolus",
-          "data": {
-            "type": "ParticleData",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/particle.json"
-          },
-          "name": "pixel",
-          "subtitle": "Sonolus",
-          "texture": {
-            "type": "ParticleTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/texture.png"
-          },
-          "thumbnail": {
-            "type": "ParticleThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/thumbnail.png"
-          },
-          "title": "Pixel",
-          "version": 1
-        },
-        "skin": {
-          "author": "Kuyaterai",
-          "data": {
-            "type": "SkinData",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/skin.json"
-          },
-          "name": "psekai.1",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "texture": {
-            "type": "SkinTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/texture.png"
-          },
-          "thumbnail": {
-            "type": "SkinThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/thumbnail.png"
-          },
-          "title": "Project Sekai (Ver. 1)",
-          "version": 1
-        },
-        "subtitle": "feat. Hatsune Miku",
-        "thumbnail": {
-          "type": "EngineThumbnail",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/thumbnail.png"
-        },
-        "title": "Project Sekai",
-        "version": 1
-      },
-      "name": "hayakuchi",
-      "rating": 5,
-      "title": "滑舌厨早口テスト",
-      "useBackground": {
-        "useDefault": true
-      },
-      "useEffect": {
-        "useDefault": true
-      },
-      "useParticle": {
-        "useDefault": true
-      },
-      "useSkin": {
-        "useDefault": true
-      },
-      "version": 1
-    },
-    {
-      "artists": "初音ミク",
       "author": "Myrica",
       "bgm": {
         "type": "LevelBgm",
@@ -386,7 +261,7 @@
         "type": "LevelData",
         "url": "/repository/levels/teikoku/level"
       },
-      "description": "作詞：R Sound Design\n作曲：R Sound Design\n編曲：R Sound Design\n歌：初音ミク",
+      "description": "作詞：R Sound Design\r\n作曲：R Sound Design\r\n編曲：R Sound Design\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -511,7 +386,7 @@
         "type": "LevelData",
         "url": "/repository/levels/barabara3/level"
       },
-      "description": "作詞：cosMo@暴走P\n作曲：cosMo@暴走P\n編曲：-\n歌：初音ミク",
+      "description": "作詞：cosMo@暴走P\r\n作曲：cosMo@暴走P\r\n編曲：-\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -636,7 +511,7 @@
         "type": "LevelData",
         "url": "/repository/levels/tigau2/level"
       },
-      "description": "作詞：カルロス袴田(サイゼP)\n作曲：カルロス袴田(サイゼP)\n編曲：-\n歌：初音ミク、音街ウナ",
+      "description": "作詞：カルロス袴田(サイゼP)\r\n作曲：カルロス袴田(サイゼP)\r\n編曲：-\r\n歌：初音ミク、音街ウナ",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -761,7 +636,7 @@
         "type": "LevelData",
         "url": "/repository/levels/FREELY TOMORROW4/level"
       },
-      "description": "作詞：ЯIRE/Mitchie M\n作曲：Mitchie M\n編曲：Mitchie M\n歌：初音ミク",
+      "description": "作詞：ЯIRE/Mitchie M\r\n作曲：Mitchie M\r\n編曲：Mitchie M\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -886,7 +761,7 @@
         "type": "LevelData",
         "url": "/repository/levels/nousyou3/level"
       },
-      "description": "作詞：れるりり\n作曲：れるりり\n編曲：-\n歌：初音ミク、GUMI",
+      "description": "作詞：れるりり\r\n作曲：れるりり\r\n編曲：-\r\n歌：初音ミク、GUMI",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1011,7 +886,7 @@
         "type": "LevelData",
         "url": "/repository/levels/i/level"
       },
-      "description": "作詞：iconoclasm\n作曲：iconoclasm\n編曲：iconoclasm\n歌：GUMI",
+      "description": "作詞：iconoclasm\r\n作曲：iconoclasm\r\n編曲：iconoclasm\r\n歌：GUMI",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1136,7 +1011,7 @@
         "type": "LevelData",
         "url": "/repository/levels/hfs2/level"
       },
-      "description": "作詞：山崎佳祐\n作曲：山崎佳祐\n編曲：溝口雅大\n歌：TrySail",
+      "description": "作詞：山崎佳祐\r\n作曲：山崎佳祐\r\n編曲：溝口雅大\r\n歌：TrySail",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1261,7 +1136,7 @@
         "type": "LevelData",
         "url": "/repository/levels/ω43/level"
       },
-      "description": "作詞：-\n作曲：穴山大輔vs光吉猛修vsKai\n編曲：-\n歌：穴山大輔？",
+      "description": "作詞：-\r\n作曲：穴山大輔vs光吉猛修vsKai\r\n編曲：-\r\n歌：穴山大輔？",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1386,7 +1261,7 @@
         "type": "LevelData",
         "url": "/repository/levels/daybreak_frontline/level"
       },
-      "description": "作詞：Orangestar\n作曲：Orangestar\n編曲：-\n歌：IA",
+      "description": "作詞：Orangestar\r\n作曲：Orangestar\r\n編曲：-\r\n歌：IA",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1511,7 +1386,7 @@
         "type": "LevelData",
         "url": "/repository/levels/tonchinkan1/level"
       },
-      "description": "作詞：ピノキオピー\n作曲：ピノキオピー\n編曲：ピノキオピー\n歌：初音ミク",
+      "description": "作詞：ピノキオピー\r\n作曲：ピノキオピー\r\n編曲：ピノキオピー\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1636,7 +1511,7 @@
         "type": "LevelData",
         "url": "/repository/levels/deardoppelganger1/level"
       },
-      "description": "作詞：kemu\n作曲：kemu\n編曲：kemu\n歌：GUMI",
+      "description": "作詞：kemu\r\n作曲：kemu\r\n編曲：kemu\r\n歌：GUMI",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1761,7 +1636,7 @@
         "type": "LevelData",
         "url": "/repository/levels/jigsawpuzzle/level"
       },
-      "description": "作詞：まふまふ\n作曲：まふまふ\n編曲：まふまふ\n歌：鏡音レン",
+      "description": "作詞：まふまふ\r\n作曲：まふまふ\r\n編曲：まふまふ\r\n歌：鏡音レン",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -1886,7 +1761,7 @@
         "type": "LevelData",
         "url": "/repository/levels/DenParadigm/level"
       },
-      "description": "作詞：lumo\n作曲：lumo\n編曲：-\n歌：初音ミク",
+      "description": "作詞：lumo\r\n作曲：lumo\r\n編曲：-\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2011,7 +1886,7 @@
         "type": "LevelData",
         "url": "/repository/levels/FLOWER/level"
       },
-      "description": "作詞：-\n作曲：DJ YOSHITAKA\n編曲：-\n歌：-",
+      "description": "作詞：-\r\n作曲：DJ YOSHITAKA\r\n編曲：-\r\n歌：-",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2136,7 +2011,7 @@
         "type": "LevelData",
         "url": "/repository/levels/king/level"
       },
-      "description": "作詞：Kanaria\n作曲：Kanaria\n編曲：Kanaria\n歌：GUMI",
+      "description": "作詞：Kanaria\r\n作曲：Kanaria\r\n編曲：Kanaria\r\n歌：GUMI",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2261,7 +2136,7 @@
         "type": "LevelData",
         "url": "/repository/levels/po1/level"
       },
-      "description": "作詞：ラマーズP\n作曲：ラマーズP\n編曲：ラマーズP\n歌：初音ミク",
+      "description": "作詞：ラマーズP\r\n作曲：ラマーズP\r\n編曲：ラマーズP\r\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2386,7 +2261,7 @@
         "type": "LevelData",
         "url": "/repository/levels/setuna/level"
       },
-      "description": "作詞：Last Note.\n作曲：Last Note.\n編曲：Last Note.\n歌：GUMI",
+      "description": "作詞：Last Note.\r\n作曲：Last Note.\r\n編曲：Last Note.\r\n歌：GUMI",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2511,7 +2386,7 @@
         "type": "LevelData",
         "url": "/repository/levels/つきはね/level"
       },
-      "description": "作詞：SeikoP\n作曲：SeikoP\n編曲：SeikoP\n歌：VY1",
+      "description": "作詞：SeikoP\r\n作曲：SeikoP\r\n編曲：SeikoP\r\n歌：VY1",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -2636,7 +2511,7 @@
         "type": "LevelData",
         "url": "/repository/levels/giragira/level"
       },
-      "description": "作詞：てにをは\n作曲：てにをは\n編曲：てにをは\n歌：Ado",
+      "description": "作詞：てにをは\r\n作曲：てにをは\r\n編曲：てにをは\r\n歌：Ado",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
