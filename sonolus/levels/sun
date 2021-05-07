@@ -1,21 +1,21 @@
 {
    "item": {
       "artists": "初音ミク",
-      "author": "DZ",
+      "author": "ねと",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/barabara3/song.mp3"
+        "url": "/repository/levels/sun/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/barabara3/jacket.jpg"
+        "url": "/repository/levels/sun/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/barabara3/level"
+        "url": "/repository/levels/sun/level"
       },
-      "description": "作詞：cosMo@暴走P\n作曲：cosMo@暴走P\n編曲：-\n歌：初音ミク",
+      "description": "作詞：ナユタン星人\n作曲：ナユタン星人\n編曲：-\n歌：初音ミク",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -107,9 +107,9 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "barabara3",
+      "name": "sun",
       "rating": 5,
-      "title": "バラバラリリック",
+      "title": "太陽系デスコ",
       "useBackground": {
         "useDefault": true
       },
