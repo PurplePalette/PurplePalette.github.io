@@ -1000,16 +1000,16 @@
       "author": "うふげー",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/vampire/song.mp3"
+        "url": "/repository/levels/vampire3/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/vampire/jacket.jpg"
+        "url": "/repository/levels/vampire3/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/vampire/level"
+        "url": "/repository/levels/vampire3/level"
       },
       "description": "作詞：DECO*27\n作曲：DECO*27\n編曲：Rockwell\n歌：初音ミク",
       "engine": {
@@ -1103,7 +1103,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "vampire",
+      "name": "vampire3",
       "rating": 5,
       "title": "ヴァンパイア",
       "useBackground": {
