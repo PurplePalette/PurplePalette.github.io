@@ -2,7 +2,6 @@
   "items": [
     {
       "artists": "初音ミク",
-      "author": "Myrica",
       "bgm": {
         "type": "LevelBgm",
         "url": "/repository/levels/ai2/song.mp3"
@@ -377,11 +376,19 @@
     },
     {
       "artists": "初音ミク",
+      "author": "Myrica",
       "bgm": {
         "type": "LevelBgm",
         "url": "/repository/levels/teikoku/song.mp3"
       },
       "characterUnits": [],
+      "cover": {
+        "type": "LevelCover",
+        "url": "/repository/levels/teikoku/jacket.jpg"
+      },
+      "data": {
+        "type": "LevelData",
+        "url": "/repository/levels/teikoku/level"
       },
       "description": "作詞：R Sound Design\n作曲：R Sound Design\n編曲：R Sound Design\n歌：初音ミク",
       "engine": {
