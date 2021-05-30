@@ -4,16 +4,16 @@
       "author": "よこしま。",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/BBKKBKK/song.mp3"
+        "url": "/repository/levels/BBKKBKK1/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/BBKKBKK/jacket.jpg"
+        "url": "/repository/levels/BBKKBKK1/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/BBKKBKK/level"
+        "url": "/repository/levels/BBKKBKK1/level"
       },
       "description": "作詞：-\n作曲：nora2r\n編曲：-\n歌：-",
       "engine": {
@@ -107,7 +107,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "BBKKBKK",
+      "name": "BBKKBKK1",
       "rating": 5,
       "title": "B.B.K.K.B.K.K.",
       "useBackground": {
