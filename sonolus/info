@@ -1125,16 +1125,16 @@
       "author": "ねお",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/RIP/song.mp3"
+        "url": "/repository/levels/RIP1/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/RIP/jacket.jpg"
+        "url": "/repository/levels/RIP1/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/RIP/level"
+        "url": "/repository/levels/RIP1/level"
       },
       "description": "作詞：cosMo@暴走P\n作曲：cosMo@暴走P\n編曲：cosMo@暴走P\n歌：GUMI",
       "engine": {
@@ -1228,7 +1228,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "RIP",
+      "name": "RIP1",
       "rating": 5,
       "title": "R.I.Pゴシップの海",
       "useBackground": {
