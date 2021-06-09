@@ -3125,16 +3125,16 @@
       "author": "霜月(そうげつ)",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/ω43/song.mp3"
+        "url": "/repository/levels/omega/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/ω43/jacket.jpg"
+        "url": "/repository/levels/omega/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/ω43/level"
+        "url": "/repository/levels/omega/level"
       },
       "description": "作詞：-\n作曲：穴山大輔vs光吉猛修vsKai\n編曲：-\n歌：穴山大輔？",
       "engine": {
@@ -3228,7 +3228,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "ω43",
+      "name": "omega",
       "rating": 5,
       "title": "ω4",
       "useBackground": {
@@ -4875,16 +4875,16 @@
       "author": "こゆき",
       "bgm": {
         "type": "LevelBgm",
-        "url": "/repository/levels/つきはね/song.mp3"
+        "url": "/repository/levels/tuki/song.mp3"
       },
       "characterUnits": [],
       "cover": {
         "type": "LevelCover",
-        "url": "/repository/levels/つきはね/jacket.jpg"
+        "url": "/repository/levels/tuki/jacket.jpg"
       },
       "data": {
         "type": "LevelData",
-        "url": "/repository/levels/つきはね/level"
+        "url": "/repository/levels/tuki/level"
       },
       "description": "作詞：SeikoP\n作曲：SeikoP\n編曲：SeikoP\n歌：VY1",
       "engine": {
@@ -4978,7 +4978,7 @@
         "title": "Project Sekai",
         "version": 1
       },
-      "name": "つきはね",
+      "name": "tuki",
       "rating": 5,
       "title": "月翅",
       "useBackground": {
