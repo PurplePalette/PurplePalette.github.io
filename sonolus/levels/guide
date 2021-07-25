@@ -1,11 +1,5 @@
 {
-  "skins": [],
-  "backgrounds": [],
-  "effects": [],
-  "particles": [],
-  "engines": [],
-  "levels": [
-    {
+  "item": {
       "artists": "本サーバーは今後更新されません。",
       "author": "紫式部",
       "bgm": {
@@ -21,7 +15,6 @@
         "type": "LevelData",
         "url": ""
       },
-      "description": "本サーバーは今後更新されません。\n今後はhttps://potato.purplepalette.net/をお使いください。\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/",
       "engine": {
         "author": "Water Boiled Pizza",
         "background": {
@@ -115,7 +108,7 @@
       },
       "name": "guide",
       "rating": 9999,
-      "title": "【注意】Attention please!",
+      "title": "Attention please!",
       "useBackground": {
         "useDefault": true
       },
@@ -129,6 +122,6 @@
         "useDefault": true
       },
       "version": 1
-    }
-  ]
+    },
+    "description": "本サーバーは今後更新されません。\n今後はhttps://potato.purplepalette.net/をお使いください。\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/"
 }
