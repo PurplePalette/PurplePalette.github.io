@@ -4,256 +4,258 @@
   "effects": [],
   "particles": [],
   "engines": [],
-  "levels": [
-    {
-      "artists": "本サーバーは今後更新されません。",
-      "author": "紫式部",
-      "bgm": {
-        "type": "LevelBgm",
-        "url": ""
-      },
-      "characterUnits": [],
-      "cover": {
-        "type": "LevelCover",
-        "url": "/repository/levels/guide/jacket.jpg"
-      },
-      "data": {
-        "type": "LevelData",
-        "url": ""
-      },
-      "description": "本サーバーは今後更新されません。\n今後はhttps://potato.purplepalette.net/をお使いください。\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/",
-      "engine": {
-        "author": "Water Boiled Pizza",
-        "background": {
-          "author": "Sonolus",
-          "data": {
-            "type": "BackgroundData",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/background.json"
-          },
-          "image": {
-            "type": "BackgroundImage",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/image.png"
-          },
-          "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "thumbnail": {
-            "type": "BackgroundThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/thumbnail.png"
-          },
-          "title": "Project Sekai",
-          "version": 1
+  "levels": {
+    "items": [
+      {
+        "artists": "本サーバーは今後更新されません。",
+        "author": "紫式部",
+        "bgm": {
+          "type": "LevelBgm",
+          "url": ""
         },
-        "configuration": {
-          "type": "EngineConfiguration",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineConfiguration"
+        "characterUnits": [],
+        "cover": {
+          "type": "LevelCover",
+          "url": "/repository/levels/guide/jacket.jpg"
         },
         "data": {
-          "type": "EngineData",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineData"
+          "type": "LevelData",
+          "url": ""
         },
-        "effect": {
-          "author": "Sonolus",
+        "description": "本サーバーは今後更新されません。\n今後はhttps://potato.purplepalette.net/をお使いください。\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/",
+        "engine": {
+          "author": "Water Boiled Pizza",
+          "background": {
+            "author": "Sonolus",
+            "data": {
+              "type": "BackgroundData",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/background.json"
+            },
+            "image": {
+              "type": "BackgroundImage",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/image.png"
+            },
+            "name": "psekai",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "thumbnail": {
+              "type": "BackgroundThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/thumbnail.png"
+            },
+            "title": "Project Sekai",
+            "version": 1
+          },
+          "configuration": {
+            "type": "EngineConfiguration",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineConfiguration"
+          },
           "data": {
-            "type": "EffectData",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/EffectData"
+            "type": "EngineData",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineData"
+          },
+          "effect": {
+            "author": "Sonolus",
+            "data": {
+              "type": "EffectData",
+              "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/EffectData"
+            },
+            "name": "psekai",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "thumbnail": {
+              "type": "EffectThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/thumbnail.png"
+            },
+            "title": "Project Sekai",
+            "version": 1
           },
           "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
+          "particle": {
+            "author": "Sonolus",
+            "data": {
+              "type": "ParticleData",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/particle.json"
+            },
+            "name": "pixel",
+            "subtitle": "Sonolus",
+            "texture": {
+              "type": "ParticleTexture",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/texture.png"
+            },
+            "thumbnail": {
+              "type": "ParticleThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/thumbnail.png"
+            },
+            "title": "Pixel",
+            "version": 1
+          },
+          "skin": {
+            "author": "Kuyaterai",
+            "data": {
+              "type": "SkinData",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/skin.json"
+            },
+            "name": "psekai.1",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "texture": {
+              "type": "SkinTexture",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/texture.png"
+            },
+            "thumbnail": {
+              "type": "SkinThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/thumbnail.png"
+            },
+            "title": "Project Sekai (Ver. 1)",
+            "version": 1
+          },
+          "subtitle": "feat. Hatsune Miku",
           "thumbnail": {
-            "type": "EffectThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/thumbnail.png"
+            "type": "EngineThumbnail",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/thumbnail.png"
           },
           "title": "Project Sekai",
           "version": 1
         },
-        "name": "psekai",
-        "particle": {
-          "author": "Sonolus",
-          "data": {
-            "type": "ParticleData",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/particle.json"
-          },
-          "name": "pixel",
-          "subtitle": "Sonolus",
-          "texture": {
-            "type": "ParticleTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/texture.png"
-          },
-          "thumbnail": {
-            "type": "ParticleThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/thumbnail.png"
-          },
-          "title": "Pixel",
-          "version": 1
+        "name": "guide",
+        "rating": 9999,
+        "title": "【注意】Attention please!",
+        "useBackground": {
+          "useDefault": true
         },
-        "skin": {
-          "author": "Kuyaterai",
-          "data": {
-            "type": "SkinData",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/skin.json"
-          },
-          "name": "psekai.1",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "texture": {
-            "type": "SkinTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/texture.png"
-          },
-          "thumbnail": {
-            "type": "SkinThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/thumbnail.png"
-          },
-          "title": "Project Sekai (Ver. 1)",
-          "version": 1
+        "useEffect": {
+          "useDefault": true
         },
-        "subtitle": "feat. Hatsune Miku",
-        "thumbnail": {
-          "type": "EngineThumbnail",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/thumbnail.png"
+        "useParticle": {
+          "useDefault": true
         },
-        "title": "Project Sekai",
+        "useSkin": {
+          "useDefault": true
+        },
         "version": 1
       },
-      "name": "guide",
-      "rating": 9999,
-      "title": "【注意】Attention please!",
-      "useBackground": {
-        "useDefault": true
-      },
-      "useEffect": {
-        "useDefault": true
-      },
-      "useParticle": {
-        "useDefault": true
-      },
-      "useSkin": {
-        "useDefault": true
-      },
-      "version": 1
-    },
-    {
-      "artists": "今後はhttps://potato.purplepalette.net/をお使いください。",
-      "author": "紫式部",
-      "bgm": {
-        "type": "LevelBgm",
-        "url": ""
-      },
-      "characterUnits": [],
-      "cover": {
-        "type": "LevelCover",
-        "url": "/repository/levels/guide/jacket.jpg"
-      },
-      "data": {
-        "type": "LevelData",
-        "url": ""
-      },
-      "description": "\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/",
-      "engine": {
-        "author": "Water Boiled Pizza",
-        "background": {
-          "author": "Sonolus",
-          "data": {
-            "type": "BackgroundData",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/background.json"
-          },
-          "image": {
-            "type": "BackgroundImage",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/image.png"
-          },
-          "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "thumbnail": {
-            "type": "BackgroundThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/thumbnail.png"
-          },
-          "title": "Project Sekai",
-          "version": 1
+      {
+        "artists": "今後はhttps://potato.purplepalette.net/をお使いください。",
+        "author": "紫式部",
+        "bgm": {
+          "type": "LevelBgm",
+          "url": ""
         },
-        "configuration": {
-          "type": "EngineConfiguration",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineConfiguration"
+        "characterUnits": [],
+        "cover": {
+          "type": "LevelCover",
+          "url": "/repository/levels/guide/jacket.jpg"
         },
         "data": {
-          "type": "EngineData",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineData"
+          "type": "LevelData",
+          "url": ""
         },
-        "effect": {
-          "author": "Sonolus",
+        "description": "\n\nThis server will not be updated in the future.\nPlease visit https://potato.purplepalette.net/",
+        "engine": {
+          "author": "Water Boiled Pizza",
+          "background": {
+            "author": "Sonolus",
+            "data": {
+              "type": "BackgroundData",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/background.json"
+            },
+            "image": {
+              "type": "BackgroundImage",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/image.png"
+            },
+            "name": "psekai",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "thumbnail": {
+              "type": "BackgroundThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/backgrounds/psekai/thumbnail.png"
+            },
+            "title": "Project Sekai",
+            "version": 1
+          },
+          "configuration": {
+            "type": "EngineConfiguration",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineConfiguration"
+          },
           "data": {
-            "type": "EffectData",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/EffectData"
+            "type": "EngineData",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/EngineData"
+          },
+          "effect": {
+            "author": "Sonolus",
+            "data": {
+              "type": "EffectData",
+              "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/EffectData"
+            },
+            "name": "psekai",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "thumbnail": {
+              "type": "EffectThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/thumbnail.png"
+            },
+            "title": "Project Sekai",
+            "version": 1
           },
           "name": "psekai",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
+          "particle": {
+            "author": "Sonolus",
+            "data": {
+              "type": "ParticleData",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/particle.json"
+            },
+            "name": "pixel",
+            "subtitle": "Sonolus",
+            "texture": {
+              "type": "ParticleTexture",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/texture.png"
+            },
+            "thumbnail": {
+              "type": "ParticleThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/thumbnail.png"
+            },
+            "title": "Pixel",
+            "version": 1
+          },
+          "skin": {
+            "author": "Kuyaterai",
+            "data": {
+              "type": "SkinData",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/skin.json"
+            },
+            "name": "psekai.1",
+            "subtitle": "Project SEKAI COLORFUL STAGE!",
+            "texture": {
+              "type": "SkinTexture",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/texture.png"
+            },
+            "thumbnail": {
+              "type": "SkinThumbnail",
+              "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/thumbnail.png"
+            },
+            "title": "Project Sekai (Ver. 1)",
+            "version": 1
+          },
+          "subtitle": "feat. Hatsune Miku",
           "thumbnail": {
-            "type": "EffectThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/effects/psekai/thumbnail.png"
+            "type": "EngineThumbnail",
+            "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/thumbnail.png"
           },
           "title": "Project Sekai",
           "version": 1
         },
-        "name": "psekai",
-        "particle": {
-          "author": "Sonolus",
-          "data": {
-            "type": "ParticleData",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/particle.json"
-          },
-          "name": "pixel",
-          "subtitle": "Sonolus",
-          "texture": {
-            "type": "ParticleTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/texture.png"
-          },
-          "thumbnail": {
-            "type": "ParticleThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/particles/pixel/thumbnail.png"
-          },
-          "title": "Pixel",
-          "version": 1
+        "name": "guide",
+        "rating": 9999,
+        "title": "本サーバーは今後更新されません。",
+        "useBackground": {
+          "useDefault": true
         },
-        "skin": {
-          "author": "Kuyaterai",
-          "data": {
-            "type": "SkinData",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/skin.json"
-          },
-          "name": "psekai.1",
-          "subtitle": "Project SEKAI COLORFUL STAGE!",
-          "texture": {
-            "type": "SkinTexture",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/texture.png"
-          },
-          "thumbnail": {
-            "type": "SkinThumbnail",
-            "url": "https://colorfulstage.herokuapp.com/repository/skins/psekai.1/thumbnail.png"
-          },
-          "title": "Project Sekai (Ver. 1)",
-          "version": 1
+        "useEffect": {
+          "useDefault": true
         },
-        "subtitle": "feat. Hatsune Miku",
-        "thumbnail": {
-          "type": "EngineThumbnail",
-          "url": "https://colorfulstage.herokuapp.com/repository/engines/psekai/thumbnail.png"
+        "useParticle": {
+          "useDefault": true
         },
-        "title": "Project Sekai",
+        "useSkin": {
+          "useDefault": true
+        },
         "version": 1
-      },
-      "name": "guide",
-      "rating": 9999,
-      "title": "本サーバーは今後更新されません。",
-      "useBackground": {
-        "useDefault": true
-      },
-      "useEffect": {
-        "useDefault": true
-      },
-      "useParticle": {
-        "useDefault": true
-      },
-      "useSkin": {
-        "useDefault": true
-      },
-      "version": 1
-    }
-  ]
+      }
+    ]
+  }
 }
