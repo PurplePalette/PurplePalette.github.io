@@ -1,0 +1,40 @@
+{
+	"name": "Sonolus AltStore Repo",
+	"identifier": "com.purplepalette.altstore",
+	"sourceURL": "https://purplepalette.github.io/repo.json",
+	"apps": [
+		{
+			"name": "Sonolus",
+			"bundleIdentifier": "com.Burrito.Sonolus",
+			"developerName": "NonSpicyBurrito",
+			"subtitle": "The Next Generation Rhythm Game.",
+			"version": "0.5.11",
+			"versionDate": "2022-02-24",
+			"versionDescription": "Updated result screen, added new scripting things, and bugfixes!",
+			"downloadURL": "https://sonolus.com/download/Sonolus_0.5.11.ipa",
+			"localizedDescription": "Sonolus is rhythm game, but everything are customizable and developer friendly. You can play, and also build rhythm game!",
+			"iconURL": "https://sonolus.com/res/icon.png",
+			"size": 14200000
+		}
+	],
+	"news": [
+		{
+			"title": "Sonolus 0.5.11 is released!",
+			"identifier": "sonolus-0511",
+			"caption": "The Next Generation Rhythm Game. Tap to download.",
+			"imageURL": "https://sonolus.com/res/icon.png",
+			"appID": "com.Burrito.Sonolus",
+			"date": "2022-02-24",
+			"notify": false
+		},
+		{
+			"title": "Welcome to Sonolus AltStore Repo",
+			"identifier": "connection",
+			"caption": "Release Channel: source | Version: 1.0b | Tap to visit our website.",
+			"tintColor": "FF9500",
+			"url": "https://burritosoftware.github.io/altstore",
+			"date": "2022-03-15",
+			"notify": false
+		}
+	]
+}
